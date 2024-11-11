@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">📚 I'm currently learning JavaScript <br>🎯 Goals: Front-End Web Developer and UI/UX Designer<br>🎲 Fun fact: I haven't gone to university yet</h4>
+<h3 align="left">📚 I'm currently learning JavaScript <br>🎯 Goals: Front-End Web Developer and UI/UX Designer<br>🎲 Fun fact: I haven't gone to university yet</h4>
 
 ###
 
