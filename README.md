@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Sigma and I'm a Junior Front-End Developer, I am from Egypt</h4>
+<h4 align="left">My name is Sigma and I'm a Starter Front-End Developer, I am from Egypt</h4>
 
 ###
 
