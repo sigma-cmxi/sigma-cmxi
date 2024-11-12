@@ -27,9 +27,3 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sigma-cmxi/sigma-cmxi/output/snake.svg" alt="Snake animation" />
-
-###
